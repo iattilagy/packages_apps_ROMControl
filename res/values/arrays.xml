@@ -495,6 +495,7 @@
 		<item>ROTATE</item>
 		<item>BT</item>
 		<item>GPS</item>
+		<item>DATA</item>
 		<item>WIFI</item>
 		<item>AIRPLANE_MODE</item>
 		<item>VIBRATE</item>
@@ -502,12 +503,15 @@
 		<item>TORCH</item>
 		<item>SYNC</item>
 		<item>SWAGGER</item>
+		<item>2G</item>
+		<item>AP</item>
 	</string-array>
 
 	<string-array name="available_toggles_values">
 		<item>Auto-rotate</item>
 		<item>BT</item>
 		<item>GPS</item>
+		<item>DATA</item>
 		<item>Wi-Fi</item>
 		<item>Airplane mode</item>
 		<item>Vibrate</item>
@@ -515,6 +519,8 @@
 		<item>Torch</item>
 		<item>Sync</item>
 		<item>Swagger</item>
+		<item>2G</item>
+		<item>AP</item>
 	</string-array>
 
 	<string-array name="lockscreen_choice_entries">
